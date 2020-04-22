@@ -1,1 +1,1 @@
-# multiple_T265_cameras
+# How to connect multiple T265 cameras at the same time.
